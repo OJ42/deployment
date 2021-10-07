@@ -1,3 +1,4 @@
+body {background-color: #333;}
 h1 {
   color: #da0a0a;
   font-family: arial, sans-serif;
@@ -8,7 +9,7 @@ h1 {
 }
 
 p {
-  color: #000000;
+  color: #ffffff;
   font-family: arial, sans-serif;
   font-size: 28px;
   font-weight: bold;
@@ -17,7 +18,7 @@ p {
   text-align: center;
 }
 li {
-  color: #000000;
+  color: #ffffff;
   font-family: arial, sans-serif;
   font-size: 18px;
   font-weight: bold;
