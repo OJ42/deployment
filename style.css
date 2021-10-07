@@ -13,7 +13,7 @@ p {
   font-size: 28px;
   font-weight: bold;
   margin-top: 10px;
-  margin-bottom: 1px;
+  margin-bottom: 0px;
   text-align: center;
 }
 li {
@@ -21,8 +21,8 @@ li {
   font-family: arial, sans-serif;
   font-size: 18px;
   font-weight: bold;
-  margin-top: 10px;
-  margin-bottom: 1px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .logo-image{
