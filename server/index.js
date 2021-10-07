@@ -14,7 +14,7 @@ app.listen(port, () => {
 })
 
 app.get('/js', (req, res) => {
-  res.sendFile(path.join(__dirname, '../server/index.js'))
+  res.sendFile(path.join(__dirname, '../index.js'))
 })
 
 app.get('/styles.css', (req, res) => {
